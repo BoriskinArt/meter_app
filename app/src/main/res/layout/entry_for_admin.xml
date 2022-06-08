@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/create_account"
+
+    android:background="@color/backgroundColor"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/tvCreateAcc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="71dp"
+        android:text="@string/entry_admin"
+        android:textAppearance="@style/text_entrance" />
+
+    <LinearLayout
+        android:id="@+id/input_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvCreateAcc"
+        android:layout_gravity="center"
+        android:layout_marginStart="48sp"
+        android:layout_marginTop="200dp"
+        android:layout_marginEnd="48sp"
+
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/email"
+            android:layout_marginBottom="20sp"
+            android:orientation="vertical">
+
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fio"
+                android:textAppearance="@style/inputForm" />
+
+            <EditText
+                android:id="@+id/enter_fio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_text_style"
+                android:hint="@string/fio"
+                android:paddingLeft="15dp"
+                android:textColorHint="@color/white" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_below="@+id/name"
+            android:layout_marginBottom="20sp"
+            android:orientation="vertical">
+
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/email"
+                android:textAppearance="@style/inputForm"
+                android:textColorHint="#FFFFFF" />
+
+            <EditText
+                android:id="@+id/enter_email"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_text_style"
+                android:hint="@string/email"
+                android:paddingLeft="15dp"
+                android:textColorHint="@color/white" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginBottom="20sp"
+            android:orientation="vertical">
+
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/pass"
+                android:textAppearance="@style/inputForm" />
+
+            <EditText
+                android:id="@+id/enter_pass"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/edit_text_style"
+                android:hint="@string/pass"
+                android:paddingLeft="15dp"
+                android:textColorHint="@color/white" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+
+        android:id="@+id/entry_admin"
+        style="@style/buttonText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/input_data"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30sp"
+        android:layout_marginTop="31dp"
+        android:layout_marginRight="30sp"
+        android:background="@drawable/my_button"
+        android:text="@string/to_come"
+        android:textAllCaps="false" />
+
+
+    <TextView
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:onClick="ClickText"
+        android:text="@string/come_back"
+        android:textAppearance="@style/next" />
+
+</RelativeLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/D/Android/Clone/meter_reading/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/D/Android/Clone/meter_reading/app/src/main/res/layout/app_bar_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Clone/meter_reading/app/src/main/res/layout/content_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Clone/meter_reading/app/src/main/res/layout/nav_header_admin.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Clone/meter_reading/app/src/main/res/layout/nav_header_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/drawable/button.xml" value="0.157" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/drawable/edit_text_style.xml" value="0.1555" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/drawable/ic_add.xml" value="0.1555" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/drawable/my_button.xml" value="0.1555" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/add_note.xml" value="0.264" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/admin_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/admin_layout_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/admin_layout_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/app_bar_admin_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/app_bar_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/content_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/creat_account.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/create_account.xml" value="0.264" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/entry.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/entry_for_admin.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/fragment_add_readings.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/main_fragment.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/my_button.xml" value="0.22826086956521738" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/nav_header_admin.xml" value="0.264" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/nav_header_main.xml" value="0.264" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/layout/note_item.xml" value="0.264" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/menu/menu_for_admin.xml" value="0.2" />
+        <entry key="..\:/D/Android/Not_my_project/app/src/main/res/menu/my_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">my_movie_app</string>
+    <string name="crate_account">Создать аккаунт</string>
+    <string name="name">Имя</string>
+    <string name="email">Email:</string>
+    <string name="pass">Пароль</string>
+    <string name="crate">Создать</string>
+    <string name="haveAcc">Уже есть аккаунт? Войдите</string>
+    <string name="notHaveAcc">Нет аккаунта? Создайте его сейчас</string>
+    <string name="entry">Вход</string>
+    <string name="to_come">Войти</string>
+    <string name="number_flat">Номер квартиры:</string>
+    <string name="view_meter_readings">Посмотреть показания счетчиков</string>
+    <string name="add_readings">Добавить показания</string>
+    <string name="electricity">Электричество</string>
+    <string name="XBC">ХВС</string>
+    <string name="GBC">ГВС</string>
+    <string name="Gas">Газ</string>
+    <string name="login_as_administrator">Зайти как администратор</string>
+    <string name="Exit">Выход</string>
+    <string name="fio">ФИО:</string>
+    <string name="administrator_data">Данные администратора</string>
+    <string name="come_back">Вернуться назад</string>
+    <string name="entry_admin">Вход администратора</string>
+
+</resources>
